@@ -1,0 +1,27 @@
+{
+  "name": "better-stack-trace",
+  "version": "1.0.0",
+  "description": "Add context to errors thrown inside setInterval/setTimeout/setImmediate/addListener callbacks",
+  "main": "better-stack-trace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matonga/better-stack-trace.git"
+  },
+  "keywords": [
+    "stack",
+    "trace",
+    "setInterval",
+    "setTimeout",
+    "setImmediate",
+    "addListener"
+  ],
+  "author": "Matías Moreno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matonga/better-stack-trace/issues"
+  },
+  "homepage": "https://github.com/matonga/better-stack-trace#readme"
+}
