@@ -1,6 +1,6 @@
 {
   "name": "better-stack-trace",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Add context to errors thrown inside setInterval/setTimeout/setImmediate/addListener callbacks",
   "main": "better-stack-trace.js",
   "scripts": {
